@@ -1,0 +1,255 @@
+DEBUG 2018-06-23 19:37:25,222 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-06-23 19:37:25,232 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2018-06-23 19:37:25,236 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Web.StudentAppWebModule, StudentApp.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,238 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppDataModule, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,238 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,238 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,238 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,238 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppCoreModule, StudentApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppApplicationModule, StudentApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Api.StudentAppWebApiModule, StudentApp.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,240 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,240 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,240 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,240 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:25,242 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2018-06-23 19:37:25,458 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-23 19:37:25,458 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-23 19:37:25,458 [1    ] o.Configuration.LanguageManagementConfig - Converted StudentApp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-23 19:37:25,458 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-23 19:37:25,732 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: StudentApp.EntityFramework.StudentAppDbContext, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:37:27,785 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-06-23 19:37:27,812 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-06-23 19:37:27,818 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-06-23 19:37:27,821 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: StudentApp
+DEBUG 2018-06-23 19:37:27,823 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-06-23 19:37:27,891 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-06-23 19:37:27,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 13 classes define auto mapping attributes
+DEBUG 2018-06-23 19:37:27,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.CreateUserDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UpdateUserDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UserDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.CreateRoleDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.PermissionDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.RoleDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.EditTenantDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.TenantDto
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantChangeViewModel
+DEBUG 2018-06-23 19:37:27,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2018-06-23 19:37:29,101 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2018-06-23 19:37:29,102 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2018-06-23 19:37:29,103 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2018-06-23 19:37:29,104 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2018-06-23 19:37:29,104 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2018-06-23 19:37:29,105 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+DEBUG 2018-06-23 19:38:51,795 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-06-23 19:38:51,807 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2018-06-23 19:38:51,812 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Web.StudentAppWebModule, StudentApp.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,814 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppDataModule, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,815 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,815 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,815 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,815 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppCoreModule, StudentApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppApplicationModule, StudentApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Api.StudentAppWebApiModule, StudentApp.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:51,820 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2018-06-23 19:38:52,034 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-23 19:38:52,034 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-23 19:38:52,034 [1    ] o.Configuration.LanguageManagementConfig - Converted StudentApp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-23 19:38:52,034 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-23 19:38:52,302 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: StudentApp.EntityFramework.StudentAppDbContext, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-23 19:38:54,107 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-06-23 19:38:54,133 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-06-23 19:38:54,148 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-06-23 19:38:54,150 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: StudentApp
+DEBUG 2018-06-23 19:38:54,151 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-06-23 19:38:54,205 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-06-23 19:38:54,250 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 13 classes define auto mapping attributes
+DEBUG 2018-06-23 19:38:54,250 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.CreateUserDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UpdateUserDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UserDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.CreateRoleDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.PermissionDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.RoleDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.EditTenantDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.TenantDto
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantChangeViewModel
+DEBUG 2018-06-23 19:38:54,254 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2018-06-23 19:38:55,405 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2018-06-23 19:38:55,406 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2018-06-23 19:38:55,406 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2018-06-23 19:38:55,407 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2018-06-23 19:38:55,408 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2018-06-23 19:38:55,409 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+DEBUG 2018-06-25 20:12:18,091 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-06-25 20:12:18,116 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2018-06-25 20:12:18,121 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Web.StudentAppWebModule, StudentApp.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,123 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppDataModule, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,123 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,123 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,123 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,123 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,124 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,124 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,124 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppCoreModule, StudentApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,124 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppApplicationModule, StudentApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,124 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,124 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Api.StudentAppWebApiModule, StudentApp.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,124 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,124 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,125 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,125 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,125 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:18,127 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2018-06-25 20:12:18,332 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:12:18,332 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:12:18,332 [1    ] o.Configuration.LanguageManagementConfig - Converted StudentApp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:12:18,332 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:12:18,583 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: StudentApp.EntityFramework.StudentAppDbContext, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:12:20,478 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-06-25 20:12:20,506 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-06-25 20:12:20,513 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-06-25 20:12:20,525 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: StudentApp
+DEBUG 2018-06-25 20:12:20,527 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-06-25 20:12:20,591 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-06-25 20:12:20,635 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 13 classes define auto mapping attributes
+DEBUG 2018-06-25 20:12:20,636 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-06-25 20:12:20,638 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-06-25 20:12:20,638 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.CreateUserDto
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UpdateUserDto
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UserDto
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.CreateRoleDto
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.PermissionDto
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.RoleDto
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.EditTenantDto
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.TenantDto
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantChangeViewModel
+DEBUG 2018-06-25 20:12:20,639 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2018-06-25 20:12:21,751 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2018-06-25 20:12:21,752 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2018-06-25 20:12:21,753 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2018-06-25 20:12:21,753 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2018-06-25 20:12:21,754 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2018-06-25 20:12:21,755 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+DEBUG 2018-06-25 20:33:43,323 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-06-25 20:33:43,332 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2018-06-25 20:33:43,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Web.StudentAppWebModule, StudentApp.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppDataModule, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppCoreModule, StudentApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,340 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppApplicationModule, StudentApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Api.StudentAppWebApiModule, StudentApp.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:43,344 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2018-06-25 20:33:43,553 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:33:43,553 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:33:43,553 [1    ] o.Configuration.LanguageManagementConfig - Converted StudentApp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:33:43,553 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:33:43,806 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: StudentApp.EntityFramework.StudentAppDbContext, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:33:45,557 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-06-25 20:33:45,582 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-06-25 20:33:45,589 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-06-25 20:33:45,600 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: StudentApp
+DEBUG 2018-06-25 20:33:45,602 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-06-25 20:33:45,669 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-06-25 20:33:45,717 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 13 classes define auto mapping attributes
+DEBUG 2018-06-25 20:33:45,717 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-06-25 20:33:45,720 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-06-25 20:33:45,720 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.CreateUserDto
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UpdateUserDto
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UserDto
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.CreateRoleDto
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.PermissionDto
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.RoleDto
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.EditTenantDto
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.TenantDto
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantChangeViewModel
+DEBUG 2018-06-25 20:33:45,721 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2018-06-25 20:33:46,865 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2018-06-25 20:33:46,866 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2018-06-25 20:33:46,867 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2018-06-25 20:33:46,868 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2018-06-25 20:33:46,869 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2018-06-25 20:33:46,869 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+DEBUG 2018-06-25 20:37:03,833 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-06-25 20:37:04,176 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2018-06-25 20:37:04,181 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Web.StudentAppWebModule, StudentApp.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,183 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppDataModule, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,183 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,183 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,183 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,183 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppCoreModule, StudentApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.StudentAppApplicationModule, StudentApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: StudentApp.Api.StudentAppWebApiModule, StudentApp.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,185 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,185 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,185 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,185 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:04,187 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2018-06-25 20:37:04,641 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:37:04,641 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:37:04,641 [1    ] o.Configuration.LanguageManagementConfig - Converted StudentApp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:37:04,641 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-06-25 20:37:04,894 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: StudentApp.EntityFramework.StudentAppDbContext, StudentApp.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-06-25 20:37:05,466 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-06-25 20:37:05,495 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-06-25 20:37:05,501 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-06-25 20:37:05,503 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: StudentApp
+DEBUG 2018-06-25 20:37:05,505 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-06-25 20:37:05,563 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-06-25 20:37:05,608 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 13 classes define auto mapping attributes
+DEBUG 2018-06-25 20:37:05,608 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-06-25 20:37:05,611 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-06-25 20:37:05,611 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.CreateUserDto
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UpdateUserDto
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Users.Dto.UserDto
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.CreateRoleDto
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.PermissionDto
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Roles.Dto.RoleDto
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.EditTenantDto
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.MultiTenancy.Dto.TenantDto
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantChangeViewModel
+DEBUG 2018-06-25 20:37:05,612 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - StudentApp.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2018-06-25 20:37:06,661 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2018-06-25 20:37:06,661 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2018-06-25 20:37:06,662 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2018-06-25 20:37:06,663 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2018-06-25 20:37:06,664 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2018-06-25 20:37:06,665 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'StudentApp.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
